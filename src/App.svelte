@@ -146,6 +146,6 @@
 	About
 </h2>
 <p>
-	The source code is available on github. This tool was built by <a href="https://github.com/slaporte">Stephen LaPorte</a> at <a href="https://wikiconference.org/wiki/2019/Main_Page">WikiConference North America 2019</a>. Thanks to <a href="https://twitter.com/fuzheado">@fuzheado</a> for the idea.
+	The source code is <a href="https://github.com/hatnote/source-debug">available on github</a>. This tool was built by <a href="https://github.com/slaporte">Stephen LaPorte</a> at <a href="https://wikiconference.org/wiki/2019/Main_Page">WikiConference North America 2019</a>. Thanks to <a href="https://twitter.com/fuzheado">@fuzheado</a> for the idea.
 </p>
 	</div>
